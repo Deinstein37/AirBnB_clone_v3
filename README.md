@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Ayele Gebremariyam - [Github](https://github.com/ayele-getu)
-Daniel Onolameh - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Daniel Onolameh - [Github](https://github.com/Deinstein37)
 
 Second part of Airbnb: Joann Vuong
 ## License
